@@ -1,0 +1,11 @@
+CustomerID,FirstName,LastName,EmailAddress,Phone,Gender,DateOfBirth,CustomerSince,Segment,City,Country
+C001,James,Anderson,james.anderson@email.com,-867,M,12/03/1985,15/01/2020,Corporate,New York,USA
+C002,Sarah,Thompson,sarah.thompson@email.com,-1046,F,24/07/1990,20/06/2019,Retail,Los Angeles,USA
+C003,Michael,Williams,m.williams@email.com,-665,M,05/11/1978,10/03/2018,Corporate,London,UK
+C004,Emily,Johnson,emily.j@email.com,-1059,F,18/04/1992,05/08/2021,Retail,Chicago,USA
+C005,Robert,Brown,r.brown@email.com,-641,M,30/09/1983,22/11/2020,Corporate,Sydney,Australia
+C006,Jessica,Davis,jessica.d@email.com,-1434,F,14/02/1995,30/01/2022,Retail,Houston,USA
+C007,David,Miller,d.miller@email.com,-714,M,08/06/1975,14/05/2017,Corporate,Berlin,Germany
+C008,Amanda,Wilson,a.wilson@email.com,-1345,F,22/12/1988,18/09/2019,Retail,Phoenix,USA
+C009,Christopher,Moore,c.moore@email.com,-925,M,15/08/1970,28/02/2016,Corporate,Philadelphia,USA
+C010,Michelle,Taylor,m.taylor@email.com,-887,F,27/05/1993,12/04/2021,Retail,San Antonio,USA

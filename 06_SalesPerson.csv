@@ -1,0 +1,6 @@
+SalesPersonID,FirstName,LastName,EmailAddress,Phone,TerritoryID,SalesQuota,Bonus,CommissionPct,SalesYTD,SalesLastYear,HireDate,JobTitle
+SP01,John,Smith,john.smith@acme.com,-967,T01,300000,5000,0.012,285000,260000,15/03/2018,Sales Representative
+SP02,Maria,Garcia,maria.garcia@acme.com,-1066,T02,250000,4000,0.011,238000,215000,01/07/2019,Sales Representative
+SP03,James,Chen,james.chen@acme.com,-1069,T03,350000,6000,0.013,342000,310000,10/01/2017,Senior Sales Representative
+SP04,Linda,Patel,linda.patel@acme.com,-1471,T04,280000,4500,0.012,265000,240000,20/05/2020,Sales Representative
+SP05,Kevin,Nguyen,kevin.nguyen@acme.com,-974,T05,320000,5500,0.013,315000,285000,30/11/2018,Senior Sales Representative

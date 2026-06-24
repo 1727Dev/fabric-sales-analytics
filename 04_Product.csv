@@ -1,0 +1,13 @@
+ProductID,ProductName,ProductNumber,CategoryID,CategoryName,SubCategoryID,SubCategoryName,Color,Size,Weight,StandardCost,ListPrice,DaysToManufacture,SellStartDate
+P001,Mountain Bike Pro 500,MB-500,CAT01,Bikes,SUB01,Mountain Bikes,Black,L,13.5,850,1299.99,5,01/01/2020
+P002,Road Bike Elite 300,RB-300,CAT01,Bikes,SUB02,Road Bikes,Red,M,9.2,1100,1899.99,7,01/01/2020
+P003,Touring Bike Deluxe,TB-DLX,CAT01,Bikes,SUB03,Touring Bikes,Silver,XL,14.8,1450,2499.99,10,01/06/2020
+P004,Bike Helmet Classic,BH-CLS,CAT02,Accessories,SUB04,Helmets,White,M,0.4,35,89.99,1,01/01/2020
+P005,Bike Gloves Racing,BG-RAC,CAT02,Accessories,SUB05,Gloves,Black,L,0.1,18,49.99,1,01/01/2020
+P006,Road Frame Aluminum,RF-ALU,CAT03,Components,SUB06,Road Frames,Silver,58,3.2,450,899.99,3,01/03/2020
+P007,Mountain Frame Steel,MF-STL,CAT03,Components,SUB07,Mountain Frames,Black,48,4.1,520,1049.99,4,01/03/2020
+P008,Bike Wheels Performance,BW-PRF,CAT03,Components,SUB08,Wheels,Silver,700C,2.8,280,549.99,2,01/01/2020
+P009,Saddle Comfort Plus,SC-PLS,CAT03,Components,SUB09,Saddles,Black,Standard,0.6,75,149.99,1,01/01/2020
+P010,Water Bottle Insulated,WB-INS,CAT02,Accessories,SUB10,Bottles,Blue,750ml,0.2,8,24.99,1,01/01/2020
+P011,Bike Lock Heavy Duty,BL-HDY,CAT02,Accessories,SUB11,Locks,Black,Standard,1.2,22,59.99,1,01/01/2020
+P012,Bike Pump Portable,BP-PRT,CAT02,Accessories,SUB12,Pumps,Red,Compact,0.3,12,34.99,1,01/01/2020
